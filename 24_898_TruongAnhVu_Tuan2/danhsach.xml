@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<danhsach>
+  <giaovien>
+    <hoten>Anh Vũ</hoten>
+    <sonhom>4</sonhom>
+  </giaovien>
+  <giaovien>
+    <hoten>Hoàng Quân</hoten>
+    <sonhom>1</sonhom>
+  </giaovien>
+  <giaovien>
+    <hoten>Hoàng Thái</hoten>
+    <sonhom>10</sonhom>
+  </giaovien>
+  <giaovien>
+    <hoten>Trung Nghĩa</hoten>
+    <sonhom>0</sonhom>
+  </giaovien>
+</danhsach>
