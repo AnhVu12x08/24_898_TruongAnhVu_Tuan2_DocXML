@@ -10,8 +10,11 @@ namespace Bai1
     {
         static void Main(string[] args)
         {
+            //Xuất định dạng Unicode
             Console.OutputEncoding = Encoding.Unicode;
             Console.InputEncoding = Encoding.Unicode;
+
+            //Khởi tạo danh sách giáo viên
             DS_GiaoVien ds = new DS_GiaoVien();
             //ds.NhapDSGV();
             ds.DocXML(@"..\..\danhsach.xml");

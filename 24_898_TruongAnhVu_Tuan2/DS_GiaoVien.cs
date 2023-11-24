@@ -20,7 +20,6 @@ namespace Bai1
         {
             listgv = new List<GiaoVien>();
         }
-
         public void NhapDSGV()
         {
             int choice;
@@ -44,7 +43,6 @@ namespace Bai1
             sum =+ ListGV.Sum(gv => gv.SoNhom);
             return sum; 
         }
-
         //sắp xếp giáo viên theo tên
         public void SXTen()
         {
@@ -63,9 +61,6 @@ namespace Bai1
                 listgv.Add(gv);
             }
         }
-
-
-
         //sắp xếp giáo viên theo nhóm
         public void SXTheoNhom()
         {

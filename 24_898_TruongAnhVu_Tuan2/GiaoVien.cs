@@ -30,7 +30,7 @@ namespace Bai1
         }
         public GiaoVien()
         {
-            TenGV = "";
+            TenGV = string.Empty;
             SoNhom = 1;
         }
         public GiaoVien(string TenGV, int SoNhom)
